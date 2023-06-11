@@ -1,0 +1,20 @@
+:root{
+    --text: #0000;
+    --font: 'Outfit';
+    
+}
+
+body{
+    overflow: hidden;
+    background-color:#87C68D ;
+
+}
+
+.alicent-coded{
+    font-family: var(--font);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
